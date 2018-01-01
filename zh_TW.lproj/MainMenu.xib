@@ -40,7 +40,7 @@
                         <action selector="configure:" target="252" id="800"/>
                     </connections>
                 </menuItem>
-                <menuItem title="在線文檔..." tag="2" id="797">
+                <menuItem title="線上說明..." tag="2" id="797">
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <connections>
                         <action selector="openWiki:" target="252" id="798"/>
